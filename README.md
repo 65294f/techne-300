@@ -1,7 +1,7 @@
 <h2 align="center">Techne-300</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/65294f/techne-300/main/wiring_diagram.png" alt="wiring">
+  <img src="https://github.com/65294f/techne-300/blob/main/Assets/Techne-300%20(1).png" alt="wiring">
 </p>
 
 inspired by builds like Chris Borges printed cnc. using thin walled prints with threaded rods and concrete to add weight and sctucture for a budget. 
