@@ -50,7 +50,7 @@ For this project I used:
 <a href="https://github.com/winder/Universal-G-Code-Sender">Universal-G-Code-Sender</a>
 </h4>
 <h4>
-<a href="https://www.onshape.com/en/">OnShape</a>
+<a href="https://cad.onshape.com/documents/1772326699bf1130a6529598/w/907cdc5ddbb09328c3f2774f/e/d35b3060a68eec815520a78b?renderMode=0&uiState=698e4a8a199b0cffdec45ef3">OnShape</a>
 </h4>
 For inspiration: <h4>
 <a href="https://www.youtube.com/watch?v=L8t82OQXefM">Chris Borges</a>
