@@ -28,7 +28,23 @@ This design started on paper, just small ideas that compounded into the machine 
   width="40%">
 </p>
 
-The designs were further refined in CAD into what is the Techne-300.
+<h1 align="center">Structure</h1>
+
+The structure was inspired by Chris Borges 3d printed CNC machine. it uses concrete filled thin walled 3d parts to add weight and structure well keeping prices low. to add more structure for the parts 5/16in threaded rod is rand through the thin walled parts and secured with nuts. 
+
+<p align="center">
+  <img src="/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA3MzM3LCJwdXIiOiJibG9iX2lkIn19--ec9ea236d71b6cbdfd4bc460133a875632ef3273/Screenshot%202026-02-19%20105449.png" alt="screenshot 1"
+  width="30%">
+</p>
+
+the parts thin walls are connected to prevent spreading from the weight of the concrete. this came after a few iterations of printed prototypes. 
+The main structure is made of a single 3dprinted part repeated 14 times with repeated corner pieces to reduce complexity. 
+
+<p align="center">
+  <img src="/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTA3MzQwLCJwdXIiOiJibG9iX2lkIn19--3ad5a9b01f47dc3822ae053c0fdadeec284b1140/unnamed.jpg" alt="screenshot 2"
+  width="30%">
+</p>
+
 
 <p align="center">
   <img src="https://github.com/65294f/techne-300/blob/main/Assets/Screenshot%202026-02-10%20180413.png" alt="wiring"
