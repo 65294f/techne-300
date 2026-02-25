@@ -81,8 +81,8 @@ and
 | Parts | Link/STL | Amount | Filament (g) | Time (hrs) | Price |
 |---|---|---|---|---|---|
 | Commercial parts: |  |  |  |  |  |
-| (Purchased )Threaded Rod 1/4 in. x 6 ft | [Link](https://www.homedepot.com/p/Everbilt-1-4-in-x-6-ft-Zinc-Plated-Steel-Coarse-Threaded-Rod-23011/332734609) | x4 | 0.0 | 0.0 | $23.92 |
-| (Purchased) Hex Nut 1/4 in. | [Link](https://www.homedepot.com/p/1-4-in-20-Zinc-Plated-Hex-Nut-25-Pack-802344/204274091) | x1 | 0.0 | 0.0 | $2.18 |
+| (Purchased )Threaded Rod 5/16 in. x 6 ft | [Link](https://www.homedepot.com/p/Everbilt-5-16-in-x-6-ft-Zinc-Plated-Steel-Coarse-Threaded-Rod-23021/332733633) | x4 | 0.0 | 0.0 | $23.92 |
+| (Purchased) Hex Nut 5/16 in. | [Link](https://www.homedepot.com/p/Everbilt-5-16-in-18-Zinc-Plated-Hex-Nut-100-Pack-801740/204274104) | x1 | 0.0 | 0.0 | $2.18 |
 | (Purchased) Concrete Mix 80 lb. | [Link](https://www.homedepot.com/p/Quikrete-80-lb-Concrete-Mix-110180/100318511) | x1 | 0.0 | 0.0 | $5.98 |
 | MGN12 Linear Rail Guide 500mm | [Link](https://amazon.com/gp/product/B0119BUKVW) | x2 | 0.0 | 0.0 | $69.99 |
 | Nema 17 Stepper | [Link](https://www.amazon.com/STEPPERONLINE-Stepper-Bipolar-42x42x38mm-Connector/dp/B0B38GX54H) | x3 | 0.0 | 0.0 | $32.97 |
