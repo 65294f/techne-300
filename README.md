@@ -30,7 +30,7 @@ This design started on paper, just small ideas that compounded into the machine 
 
 <h1 align="center">Structure</h1>
 
-The structure was inspired by Chris Borges 3d printed CNC machine. it uses concrete filled thin walled 3d parts to add weight and structure well keeping prices low. to add more structure for the parts 5/16in threaded rod is ran through the thin walled parts and secured with nuts. 
+The structure was inspired by Chris Borges 3d printed CNC machine. it uses concrete filled thin walled 3d parts to add weight and structure well keeping prices low. to add more structure for the parts 5/16in threaded rod is run through the thin walled parts and secured with nuts. 
 
 <p align="center">
   <img src="https://github.com/65294f/techne-300/blob/main/Assets/unnamed.webp" alt="screenshot 1"
