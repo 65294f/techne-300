@@ -61,6 +61,40 @@ The main structure is made of a single 3dprinted part repeated 14 times with rep
   width="60%">
 </p>
 
+
+<h1 align="center">Construction</h1>
+The construction connsits of two main parts the base and the gantry.
+
+<h1 align="center">Base</h3>
+
+For the base 3 nuts are placed in the holes and threeaded rod is ran through 2 groups of 3 and 2 groups of 4. the peices are then assembled with the corners and glued/melted together. 
+
+<p align="center">
+  <img src="https://github.com/65294f/techne-300/blob/main/Assets/IMG_0992.jpeg" alt="wiring"
+  width="50%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/65294f/techne-300/blob/main/Assets/IMG_0994.jpeg" alt="wiring"
+  width="50%">
+</p>
+
+Concrete (concrete used cannot have any aggregate or thepour will be very dificult) is then poured in to the empty space and the back side of an electric sander is used to make sure that no airbubles or unfilled spaces are left the caps are pressed on and it is left to set. heatset inserts are pushed into the long side and then the linear rails are secured to the sides with M3 screws.
+
+<h1 align="center">Gantry</h3>
+
+The first step of gantry construction is screwing in the main 3d printed gantry peices into the linear slides. The t-slot extrusion is then tapped and the linear rails are secured on with the t-nuts. You Then screw the extrusion between the main gantry peices the z-axis is then secured on to the linear rails.
+
+<p align="center">
+  <img src="https://github.com/65294f/techne-300/blob/main/Assets/Screenshot%202026-03-06%20171516.png" alt="wiring"
+  width="50%">
+</p>
+
+<p align="center">
+  <img src="https://github.com/65294f/techne-300/blob/main/Assets/Screenshot%202026-03-06%20171545.png" alt="wiring"
+  width="50%">
+</p>
+
 For this project I used:
 <h4>
 <a href="https://github.com/winder/Universal-G-Code-Sender">Universal-G-Code-Sender</a>
@@ -73,6 +107,7 @@ For inspiration: <h4>
 and 
 <a href="https://www.youtube.com/watch?v=ctyLjOHg7Ag">Ivan Miranda</a>
 </h4>
+
 
 <h1 align="center">Bill of materials</h1>
 
