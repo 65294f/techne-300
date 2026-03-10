@@ -61,7 +61,7 @@ The main structure is made of a single 3D printed part repeated 14 times with re
 </p>
 
 <h1 align="center">Construction</h1>
-The construction consists of two main parts: the base and the gantry.
+The construction consists of two main parts: the base and the gantry. A full build guide will be able to be eventually found <a href="https://docs.google.com/document/d/1vw35Qro_V9RjRC6oUcMq-4XFSKVUzZ7_NZ20Waa5mPg/edit?usp=sharing"> HERE! 
 
 <h1 align="center">Base</h3>
 
