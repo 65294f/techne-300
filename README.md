@@ -12,6 +12,7 @@ The Techne-300 is a simple CNC mill primarily made of 3D printed and readily ava
   BOM at the bottom of the README and 
 <a href="https://docs.github.com)](https://github.com/65294f/techne-300/blob/main/Techne-300-part-list.csv">Part-list for amounts, STLs, filament, and print time for 3D printed parts.</a>
 </h4>
+<h3 align="center"> in the .csv BOM parts marked (purchased) are not added to the total cost and do not need funding.</h3>
 
 I wanted to make this to help my FTC team quickly prototype parts that would normally take weeks to make or get. We have tons of innovative design ideas that are impossible for us to bring into reality without a CNC machine. This build is supposed to be iterated and improved over time for whatever application is needed. I wanted to make an interesting machine, something that hadn’t been made before — that’s why I went for the movement and the structure that I designed.
 
@@ -107,6 +108,7 @@ and
 </h4>
 
 <h1 align="center">Bill of Materials</h1>
+<h3 align="center">Parts marked (purchased) are not added to the total cost and do not need funding.</h3>
 
 | Parts | Link/STL | Amount | Filament (g) | Time (hrs) | Price |
 |---|---|---|---|---|---|
