@@ -6,7 +6,7 @@
 </p>
 
 Inspired by builds like Chris Borges' printed CNC. Using thin-walled prints with threaded rods and concrete to add weight and structure on a budget. 
-The Techne-300 is a simple CNC mill primarily made of 3D printed and readily available parts. It is designed for consistent milling for prototyping, with a total cost between 350 and 500 dollars depending on where parts are sourced. 
+The Techne-300 is a simple CNC mill primarily made of 3D printed and readily available parts. It is designed for consistent milling for prototyping. 
 
 <h4 align="center">
   BOM at the bottom of the README and 
