@@ -110,30 +110,30 @@ and
 <h1 align="center">Bill of Materials</h1>
 <h3 align="center">Parts marked (purchased) are not added to the total cost and do not need funding.</h3>
 
-| Part | Amount | Total Price | Link |
-|-----|-----|-----|-----|
-| (Purchased )Threaded Rod 5/16in. x 6 ft | x4 | $23.92 | [Home Depot](https://www.homedepot.com/p/Everbilt-5-16-in-x-6-ft-Zinc-Plated-Steel-Coarse-Threaded-Rod-23021/332733633) |
-| (Purchased) Hex Nut 5/16 in. | x1 | $2.18 | [Home Depot](https://www.homedepot.com/p/Everbilt-5-16-in-18-Zinc-Plated-Hex-Nut-100-Pack-801740/204274104) |
-| (Purchased) Concrete Mix 80 lb. | x1 | $5.98 | [Home Depot](https://www.homedepot.com/p/Quikrete-80-lb-Concrete-Mix-110180/100318511) |
-| MGN12 Linear Rail Guide 500mm | x2 | $69.99 | [Amazon](https://amazon.com/gp/product/B0119BUKVW/ref=ewc_pr_img_1?smid=A228PNHVI1WVM4&psc=1) |
-| Nema 17 Stepper | x1 | $32.99 | [Amazon](https://www.amazon.com/NEMA17-Stepper-Torque-Bipolar-MOTOU/dp/B07RZHWYQ9/ref=sr_1_18) |
-| Aluminum 5mm Bore 2GT Pulley | x2 | $19.98 | [Amazon](https://us.amazon.com/PHITUODA-Synchronous-Aluminum-Timing-Pulley/dp/B0D5HJ2GN7/) |
-| GT2 Belt 150mm Length 75 Teeth | x1 | $9.99 | [Amazon](https://www.amazon.com/uxcell-Timing-Closed-160-2GT-6-Printer/dp/B0CMGSTNRX/) |
-| 5mm x 100mm steel rod | x1 | $6.99 | [Amazon](https://www.amazon.com/uxcell-250mm-Stainless-Steel-Solid/dp/B082ZNZ8G2/) |
-| 10 Teeth HTD 5M | x2 | $13.14 | [AliExpress](https://www.aliexpress.us/item/3256808582836729.html) |
-| Ball Bearings | x1 | $9.49 | [Amazon](https://us.amazon.com/HARFINGTON-Groove-Bearings-Shielded-Bearing/dp/B0CGDVT2P7/) |
-| Flanged Ball Bearings | x1 | $9.99 | [Amazon](https://www.amazon.com/F605ZZ-Miniature-Bearings-Shielded-Pre-Lubricated/dp/B0CRLGHJG9/) |
-| 150mm Lead Screw | x1 | $12.99 | [Amazon](https://www.amazon.com/LICTOP-Diameter-Printer-Set%EF%BC%88Lead-Bearing/dp/B07PPGLH56/) |
-| 60 Teeth Pulley | x1 | $5.99 | [Amazon](https://www.amazon.com/gp/product/B0F5M4RK18/) |
-| Power Supply | x1 | $17.99 | [Amazon](https://www.amazon.com/ALITOVE-Transformer-Switching-Converter-Security/dp/B078RTV9C4/) |
-| CNC Shield | x1 | $15.99 | [Amazon](https://www.amazon.com/AITIAO-DRV8825-Expansion-Engraver-StepStick/dp/B0B24YS695/) |
-| Emergency Stop | x1 | $8.39 | [Amazon](https://www.amazon.com/RuoFeng-Mushroom-Emergency-Button-Switch/dp/B07HBN45Q9/) |
-| Timing Belt | x1 | $19.99 | [Amazon](https://www.amazon.com/uxcell-Timing-Length-Inside-Synchronous/dp/B0FPLGZ915/) |
-| 500mm MGN12 Linear Rail | x2 | $57.98 | [Amazon](https://www.amazon.com/Linear-Stainless-Carriage-Printer-Machines/dp/B0D9D5LCY7/) |
-| 150mm Linear Rail | x1 | $22.39 | [Amazon](https://www.amazon.com/gp/product/B0D54KNM78/) |
-| 20x20 extrusion | x1 | $18.50 | [ZYLtech](https://www.zyltech.com/2020-t-slot-aluminum-extrusion-pre-cut-lengths-300mm-2000mm/) |
-| Heated inserts | x1 | $9.99 | [Amazon](https://www.amazon.com/Yaocom-Inserts-Threaded-Printing-Components/dp/B0DG59PW2R/) |
-| Micro Limit Switch | x1 | $5.99 | [Amazon](https://us.amazon.com/HiLetgo-KW12-3-Roller-Switch-Normally/dp/B07X142VGC/) |
-| M3 Screws Assortment Kit | x1 | $7.99 | [Amazon](https://www.amazon.com/Screws-Assortment-Plated-Socket-Washers/dp/B0D3X5CT2J/) |
-| M3 T Nuts | x1 | $4.99 | [Amazon](https://www.amazon.com/HELIFOUNER-Pieces-2020-Aluminum-Profile/dp/B0B1LTNX7F/) |
-| (purchased) 4kg PLA | x1 | $42.99 | [Amazon](https://us.amazon.com/SUNLU-2-0-Filament-Stronger-Dimensional/dp/B0DGXFXP45/) |
+
+| Part | Link | Amount | Price |
+|------|------|--------|-------|
+| (Purchased) Threaded Rod 5/16in. x 6 ft | [homedepot](https://www.homedepot.com/p/Everbilt-5-16-in-x-6-ft-Zinc-Plated-Steel-Coarse-Threaded-Rod-23021/332733633) | x4 | $23.92 |
+| (Purchased) Hex Nut 5/16 in. | [homedepot](https://www.homedepot.com/p/Everbilt-5-16-in-18-Zinc-Plated-Hex-Nut-100-Pack-801740/204274104) | x1 | $2.18 |
+| (Purchased) Concrete Mix 80 lb. | [homedepot](https://www.homedepot.com/p/Quikrete-80-lb-Concrete-Mix-110180/100318511) | x1 | $5.98 |
+| MGN12 Linear Rail Guide 500mm | [aliexpress](https://www.aliexpress.us/item/3256806930596644.html) | x2 | $98.00 |
+| Nema 17 Stepper | [amazon](https://www.amazon.com/NEMA17-Stepper-Torque-Bipolar-MOTOU/dp/B07RZHWYQ9) | x1 | $32.99 |
+| Aluminum 5mm Bore 2GT Pulley | [aliexpress](https://www.aliexpress.us/item/2251832795479948.html) | x3 | $12.18 |
+| 5mm x 330 mm steel rod | [aliexpress](https://www.aliexpress.us/item/3256805290944526.html) | x1 | $3.15 |
+| 10 Teeth HTD 5M | [aliexpress](https://www.aliexpress.us/item/3256807463348700.html) | x3 | $16.11 |
+| Ball Bearings | [aliexpress](https://www.aliexpress.us/item/3256805135171835.html) | x3 | $5.07 |
+| Flanged Ball Bearings | [aliexpress](https://www.aliexpress.us/item/3256808460014090.html) | x1 | $5.61 |
+| 150mm Lead Screw | [aliexpress](https://www.aliexpress.us/item/3256801899005803.html) | x1 | $4.99 |
+| 60 Teeth Pulley | [aliexpress](https://www.aliexpress.us/item/3256808471298920.html) | x1 | $3.39 |
+| Power Supply | [aliexpress](https://www.aliexpress.us/item/3256802657514911.html) | x1 | $5.01 |
+| CNC Shield | [aliexpress](https://www.aliexpress.us/item/3256806291794239.html) | x1 | $8.27 |
+| Emergency Stop | [aliexpress](https://www.aliexpress.us/item/3256810118000497.html) | x1 | $3.23 |
+| Timing Belt | [aliexpress](https://www.aliexpress.us/item/3256810100027326.html) | x1 | $7.11 |
+| 150mm Linear Rail | [amazon](https://www.amazon.com/uxcell-Sliding-Carriage-Bearing-Printers/dp/B0D54LDBHN) | x1 | $18.69 |
+| 20x20 extrusion | [jlcmc](https://jlcmc.com/product/s/T01/TXCX/extruded-aluminum-t-slot-15-series(gb)?k=TXCX-H1-3-1515-L600&productModelNumber=TXCX-H1-3-1515-L%5B50~6000%2F0.1%5D) | x1 | $1.89 |
+| (Purchased) Makita router | [inventables](https://www.inventables.com/products/makita-router?variant=41037047398457) | x1 | N/A |
+| Heated inserts | [amazon](https://www.amazon.com/Yaocom-Inserts-Threaded-Printing-Components/dp/B0DG59PW2R) | x1 | $9.99 |
+| Micro Limit Switch | [amazon](https://us.amazon.com/HiLetgo-KW12-3-Roller-Switch-Normally/dp/B07X142VGC) | x1 | $5.99 |
+| M3 T Nuts | [amazon](https://www.amazon.com/HELIFOUNER-Pieces-2020-Aluminum-Profile/dp/B0B1LTNX7F) | x1 | $4.99 |
+| (Purchased) M3 Screws Assortment Kit | [amazon](https://www.amazon.com/Screws-Assortment-Plated-Socket-Washers/dp/B0D3X5CT2J) | x1 | $7.99 |
+| (Purchased) 4kg PLA | [amazon](https://us.amazon.com/SUNLU-2-0-Filament-Stronger-Dimensional/dp/B0DGXFXP45) | x1 | $42.99 |
